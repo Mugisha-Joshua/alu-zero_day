@@ -1,1 +1,1 @@
-echo _TEXT_'>up_to_date'
+git pull
